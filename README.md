@@ -27,32 +27,35 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 <br>
 
 ## Education
-* **B.Sc. OF COMPUTER ENGINEERING | [AMIRKABIR UNIVERSITY OF TECHNOLOGY (TEHRAN POLYTECHNIC)](https://aut.ac.ir/), TEHRAN, IRAN | 2018 - 2023** <br>
-•	Overall cGPA: 15.31/20 
-• Last Two Years GPA: 3.21/4   
-• My transcripts excel can be viewed from [here](https://github.com/pouyanhessabi/later)    
-
-* **HIGH SCHOOL DIPLOMA IN MATHEMATICS AND PHYSICS | ALLAMEH HELLI 3 HIGHSCHOOL (NODET), TEHRAN, IRAN | 2014 - 2018** <br>
-• Overall GPA: 19.32/20 (3.91/4) <br> <br>
+* **B.Sc. of Computer Engineering | [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/), Tehran, Iran | 2018 - 2023** <br>
+•	Overall CGPA: 15.31/20 (3.06/4) <br>
+• Last Two Years GPA: 3.22/4 <br>
+• My transcripts can be viewed from [here](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/Unofficial%20Transcript.pdf)   
+• **B.Sc. Thesis**: Designing and prototyping disease diagnosis and physician referral system using microservice architecture <br>
+• Grade: 19.5/20 <br>
+• Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en&oi=ao) <br> 
+ 
+* **High School Diploma in Mathematics and Physics | Mofid 2 High School, Tehran, Iran | 2014 - 2018** <br>
+• Overall CGPA: 19.31/20 (3.91/4) <br> <br>
 
 ## Research and Work Experiences
-* **B.Sc. THESIS | DIGITAL TWIN OF A TRAFFIC SCENE USING RSU AND AWSIM | AMIRKABIR UNI. | MAR 2023 – PRESENT** <br>
- • Under the supervision of [Prof. Amir Kal](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en) <br> 
- •	I am currently working on my thesis in the field of **Intelligent Transport Systems** and **Digital Twins**. This research focuses on creating a **semi-automatic digital twin** of a traffic scene near the Amirkabir University Campus. <br>
- • The project involves **3D modeling**, **object detection** such as **detecting pedestrians** and moving vehicles using camera data, object movement **path extraction** using Lidar sensors, and finally feeding all the processed data to the **AWSIM simulator** so we can have a real-time simulation. <br>
- •	Libraries: **ROS, AWSIM, Keras, Tensorflow, OpenCV** <br>
- • Software: **AutoCAD, Sketchup, Cloudcompare, Veloview** <br>
-<br>
 
-* **RESEARCH GROUP | AMIRKABIR UNI. | FEB 2023 – PRESENT** <br>
- • I am currently the head of a research team under the guidance of [Professor Farbeh](https://scholar.google.com/citations?user=PAZOYiAAAAAJ&hl=en), and we are currently researching on **Software Disassembling Techniques with Assembly**. <br>
- • Our findings will be presented as multiple hands-on video lectures in the upcoming Fall 2023 semester for the **Microprocessor and Assembly Language** course.
-<br>
+* **B.Sc. Thesis | Amirkabir university. | [github link](https://github.com/pouyanhessabi/B.Sc-Project-Healthcare-Microservice) | Jun 2023 – Sep 2023 (4 mos)** <br>
+• Grade: 19.5/20 <br>
+• Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en&oi=ao) <br> 
+• Design a healhcare system using microservices architecture which has user authentication, disease predictionion by given symptoms, map disease to particular expertise, search physician by expertise.<br>
+• Involving software designing and engineering principles, microservices architecture, machine learning. requirement engineering.<br>
+• Implementation technologies: `python`, `flask`, `xgboost`, `mysql`, `docker` <br>
 
-* **Data Scientist Intern | [ParticleB CO.](https://particleb.ai/) | JUN 2022 – OCT 2022** <br>
-  • As an intern for a period of six months, my duties primarily involved gaining knowledge about **Natural Language Processing (NLP)** and developing a model capable of **analyzing sentiment polarity** in reviews of **cryptocurrency trends**. <br>
-  • I was tasked with implementing a **Google Chrome extension** designed to predict current trends in cryptocurrency using the acquired reviews from [www.tradingview.com](https://www.tradingview.com/).
- <br>
+* **APM and Scrum Master | [Faraadid](https://faraadid.com/) | Apr 2023 – Nov 2023 (8 mos)** <br>
+ • Associate product manager of a AI-based platform using computer vision to provide HSE services.<br>
+ • Helping CEO/PM/CTO/HR in product discovery, bussiness analytics, bussiness strategy, process engineering, quality assurance, performance measurement.<br>
+ • Establishing scrum framework, leading the scrum team, facilitating scrum events in three teams(including AI, MLOps, Software)<br>
+
+ * **Java Developer | [Dotin](https://www.dotin.ir/) | Aug 2021 – Mar 2022 (8 mos)** <br>
+ • Java developer (backend) in Banking company.<br>
+ • Web development involving: `java SE`, `java EE`, `hibernate`, `XML`, `HTML`/`CSS`/`JS`, `oracle`, `clean code`,`design patterns`.<br>
+ • Business skills: card management, payment process, card transactions, facility installments.<br>
 
 ## Projects
 ### Artificial Intelligence related projects:
