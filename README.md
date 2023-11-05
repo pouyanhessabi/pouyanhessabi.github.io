@@ -1,11 +1,10 @@
 # Greetings! I'm Pouyan Hessabi
-I'm a Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
-My research interests are: 
+I'm a Computer Engineer graduated from  Amirkabir University of Technology (Tehran Polytechnic). I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges<br> **Research Interests**: 
 * `Software Engineering`
 * `Agile`
 * `Software Architecture`
-* `Application of AI in Software Engineering`
 * `Requirement Engineering`
+* `Applied Machine Learning`
 * `Human Factors in Software Engineering`
 <br>
 
@@ -18,12 +17,13 @@ University mail: pohe@aut.ac.ir
 My CV [[pdf](https://github.com/pouyanhessabi/later)]
 - [Education](#education)
 - [Research and Work Experiences](#research-and-work-experiences)
-- [Projects](#projects)
 - [Teaching Experiences](#teaching-experiences)
-- [Grades](#grades)
+- [Academic Projects](#academic-projects)
+- [Notable Grades](#notable-grades)
 - [Technical Skills](#technical-skills)
 - [Languages](#languages)
 - [Certificates](#certificates)
+- [Honours and Other Activities](#Honours-and-Other-Activities)
 <br>
 
 ## Education
@@ -39,25 +39,37 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 • Overall CGPA: 19.31/20 (3.91/4) <br> <br>
 
 ## Research and Work Experiences
-
 * **B.Sc. Thesis | Amirkabir university. | [github link](https://github.com/pouyanhessabi/B.Sc-Project-Healthcare-Microservice) | Jun 2023 – Sep 2023 (4 mos)** <br>
 • Grade: 19.5/20 <br>
 • Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en&oi=ao) <br> 
 • Design a healhcare system using microservices architecture which has user authentication, disease predictionion by given symptoms, map disease to particular expertise, search physician by expertise.<br>
 • Involving software designing and engineering principles, microservices architecture, machine learning. requirement engineering.<br>
-• Implementation technologies: `python`, `flask`, `xgboost`, `mysql`, `docker` <br>
+• Implementation technologies: `python`, `flask`, `xgboost`, `mysql`, `docker`, `git`.<br>
 
 * **APM and Scrum Master | [Faraadid](https://faraadid.com/) | Apr 2023 – Nov 2023 (8 mos)** <br>
  • Associate product manager of a AI-based platform using computer vision to provide HSE services.<br>
  • Helping CEO/PM/CTO/HR in product discovery, bussiness analytics, bussiness strategy, process engineering, quality assurance, performance measurement.<br>
- • Establishing scrum framework, leading the scrum team, facilitating scrum events in three teams(including AI, MLOps, Software)<br>
+• Establishing `scrum` framework, leading the scrum team, facilitating scrum events in three teams(including AI, MLOps, Software)<br>
+• Using `agile` frameworks such as `kanban` and `XP`<br>
 
  * **Java Developer | [Dotin](https://www.dotin.ir/) | Aug 2021 – Mar 2022 (8 mos)** <br>
  • Java developer (backend) in Banking company.<br>
  • Web development involving: `java SE`, `java EE`, `hibernate`, `XML`, `HTML`/`CSS`/`JS`, `oracle`, `clean code`,`design patterns`.<br>
  • Business skills: card management, payment process, card transactions, facility installments.<br>
 
-## Projects
+## Teaching Experiences
+* **Head Teaching Assistant | Software Engineering II | Spring 2023** <br>
+  • Under the supervision of [Dr. Faezeh Gohari](https://scholar.google.com/citations?user=7bpNAlAAAAAJ&hl=en), Amirkabir University of Technology <br>
+  • Designing (and grading) [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design, and testing. Also recording lecture videos for the students and teaching in the classes.
+<br>
+
+* **Teaching Assistant | Software Engineering I (Software Analysis and Design)	 | Spring 2023** <br>
+  • Under the supervision of [Dr. Ehsan Alirezaei](https://scholar.google.com/citations?user=oQE-MBQAAAAJ&hl=en&oi=ao), Amirkabir University of Technology, Tehran University <br>
+  • Designing (and grading) [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design and requirement engineering<br>
+
+## Academic Projects
+### Software Engineering related projects:
+
 ### Artificial Intelligence related projects:
 * [**Search Engine**: Implemented a search engine using different models and algorithms, including `binary search`, `tf-idf`, and `word embedding`. Also, `K-means clustering` and `KNN algorithms` are used to improve search accuracy and speed.](https://github.com/rzninvo/Information-Retrieval-Course-Project)
 * [**Data Mining Projects**: Implemented various stuff including `Data Preprocessing`, `Linear Regression`, `Polynomial Regression`, `Keras NN Models`, `K-Means and DBScan Clustering`, `Apriori Decision Trees`, `XGBoost` and `GridSearchCV`](https://github.com/rzninvo/Data-Mining-Projects)
@@ -76,26 +88,8 @@ Additionally, we integrated `Multi-Level Feedback Queue` and `Priority Schedulin
 operating system to further enhance its functionality.](https://github.com/rzninvo/xv6-project)
 * [**SSH Chatroom (Information Security Project)**: Developed a secure chatroom based on the Secure Shell (SSH) protocol. A server is implemented that functions like a Kerberos Authentication Server (AS).](https://github.com/rzninvo/SSH-Chatroom)
 
-## Teaching Experiences
-* **TEACHING ASSISTANT | PRINCIPLES OF ARTIFICIAL INTELLIGENCE | SUMMER 2022 - SPRING 2023** <br>
-  • Under the supervision of [Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en), Amirkabir University of Technology <br>
-  • As part of a team effort, I contributed to the complete design and translation of the Artificial Intelligence course lectures based on [UC Berkley CS188 AI Course Materials](http://ai.berkeley.edu/lecture_slides.html), serving as the lead for both the slide creation and translation review teams, ensuring the integrity and fidelity of the content.<br>
 
-* **HEAD TEACHING ASSISTANT | SOFTWARE ENGINEERING II | SPRING 2023** <br>
-  • Under the supervision of [Dr. Faezeh Gohari](https://scholar.google.com/citations?user=7bpNAlAAAAAJ&hl=en), Amirkabir University of Technology <br>
-  •	Assigned as the Head Teaching Assistant of Software Engineering II along with [Pouyan Hesabi](https://github.com/pouyanhessabi), to manage the other teaching assistants. <br> 
-  • Designing (and grading) assignments and projects related to Software Testing and the implementation of Unit Tests. Also recording lecture videos for the students.
-<br>
-
-* **TEACHING ASSISTANT | ADVANCED PROGRAMMING | SPRING 2023** <br>
-  • Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.ca/citations?user=oISEZIUAAAAJ&hl=en), and [Prof. Hossein Zeinali](https://scholar.google.com/citations?user=KaGpFx8AAAAJ&hl=en), Amirkabir University of Technology <br>
-  •	Designing (and grading) assignments and projects related to the Java programming language and Object Oriented Programming.<br> <br>
-  
-* **TEACHING ASSISTANT | ALGORITHM DESIGN | SPRING 2023** <br>
-  • Under the supervision of [Prof. Alireza Bagheri](https://scholar.google.com/citations?user=MYvL3dMAAAAJ&hl=e)<br>
-  •	Designing (and grading) assignments and projects.<br> <br>
-
-## Grades
+## Notable Grades
 Some important grades:
 * **Data Mining**: 4/4 
 * **Principals of Computational Intelligence**: 4/4 
@@ -117,15 +111,36 @@ Some important grades:
 <br> <br>
 
 ## Technical Skills
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40"     height="40"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"        
+  height="40"/> </a>
+   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.atlassian.com/software/confluence/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a> 
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" alt="jira" width="40" height="40"/> </a>
+</p>
 <br> <br>
 
 ## Languages
 •	**Persian**: Native <br>
-•	**English**: CEFR level = C1 <br>
-•	**Japanese**: JLPT level = N5 <br> <br>
+•	**English**: Professional (TOEFL IBT anticipated completion date: 12/30/2023") <br>
+
 
 ## Certificates
+<!--
 ### Technical certificates
 #### Deep Learning Specialization Coursera (and deeplearning.ai): <br> <br> <img src="https://raw.githubusercontent.com/rzninvo/rzninvo.github.io/main/Certificates/Coursera%20UPVSE4DDZS6F.png" />
 ---
@@ -164,5 +179,8 @@ Some important grades:
 </details>
 
 ---
-#### Artifical Intelligence and Deep Learning | IPM | SNS2023: <br><br> <img src="https://raw.github.com/rzninvo/rzninvo.github.io/main/Certificates/Roham_Zendehdel_Nobari_SNS2023.jpg" />
+#### Artifical Intelligence and Deep Learning | IPM | SNS2023: <br><br> <img src="https://raw.github.com/rzninvo/rzninvo.github.io/main/Certificates/Roham_Zendehdel_Nobari_SNS2023.jpg" /> 
+-->
 <br>
+
+## Honours and Other Activities
