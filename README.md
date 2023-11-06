@@ -1,12 +1,11 @@
 # I'm Pouyan Hessabi
-<br>
+
 <p align = "center">
 <img src="https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/My-Photo.jpg" alt="Pouyan" style="width:285px; height:365px"/> 
 </p>
-<br>
 
-<br>
-I'm a Computer Engineer graduated from  Amirkabir University of Technology (Tehran Polytechnic). I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges<br> **Research Interests**: 
+I'm a Computer Engineer graduated from  Amirkabir University of Technology (Tehran Polytechnic). I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges.<br> 
+**Research Interests**: 
 * `Software Engineering`
 * `Agile`
 * `Software Architecture`
@@ -19,8 +18,7 @@ I'm a Computer Engineer graduated from  Amirkabir University of Technology (Tehr
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/pouyanhessabi)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
 
-University mail: pohe@aut.ac.ir 
-<br>
+University mail: pohe@aut.ac.ir <br>
 My CV [[pdf](https://github.com/pouyanhessabi/later)]
 - [Education](#education)
 - [Research and Work Experiences](#research-and-work-experiences)
@@ -76,9 +74,15 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 
 ## Academic Projects
 ### Software Engineering related projects:
-
+* **Information Retrieval | Search Engine**: Implemented a search engine using different models and algorithms, including `binary search` and `tf-idf`. [link](https://github.com/pouyanhessabi/Search-Engine-IR-Project)
+* **Advanced Programming | Music Player**: Implemented basic music player with `java`.Supporting features like editing songs in Library, managing different Playlists, Share or Like songs and friends activity. [link](https://github.com/pouyanhessabi/JPotify-java-spotify)
+* **Mobile Programming | Book List Android App**: Implemented an android app to import and see books list using `kotlin`. [link](https://github.com/pouyanhessabi/Book-List-App)
+* **Principles of Programming | Nation Is Falling**: Implemented basic decision game with `C` language [link](https://github.com/pouyanhessabi/BasicProgramming-final-project)
+* **Principles of Programming | Nation Is Falling**: Implemented basic decision game with `C` language [link](https://github.com/pouyanhessabi/BasicProgramming-final-project)
+* **Principles of Programming | Nation Is Falling**: Implemented basic decision game with `C` language [link](https://github.com/pouyanhessabi/BasicProgramming-final-project)
+* 
 ### Artificial Intelligence related projects:
-* [**Search Engine**: Implemented a search engine using different models and algorithms, including `binary search`, `tf-idf`, and `word embedding`. Also, `K-means clustering` and `KNN algorithms` are used to improve search accuracy and speed.](https://github.com/rzninvo/Information-Retrieval-Course-Project)
+
 * [**Data Mining Projects**: Implemented various stuff including `Data Preprocessing`, `Linear Regression`, `Polynomial Regression`, `Keras NN Models`, `K-Means and DBScan Clustering`, `Apriori Decision Trees`, `XGBoost` and `GridSearchCV`](https://github.com/rzninvo/Data-Mining-Projects)
 * [**Robotics Final Project**: This project has three phases: `Maze Solver` and `Object Avoiding Robot` with the `VFH Algorithm`, `City Lanes Following Robot`, and `Traffic Signs Detecting and Reacting` Robot.](https://github.com/rzninvo/robotics_final_project)
 * [**Multi-Labeled Text Classification**: This project aims to classify input samples from `Ronash dataset` into 20 categories using text processing techniques, `hyperparameter tuning`, and `XGBoost` decision tree tuning. Various `LSTM` and `Conv1D` layer combinations were also tested in a hand-made model](https://github.com/rzninvo/multi_label_text_classification)
