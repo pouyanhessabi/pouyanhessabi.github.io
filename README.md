@@ -1,10 +1,9 @@
 # I'm Pouyan Hessabi
 <br>
 <p align = "center">
-<img src="https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/My-Photo.jpg" alt="Pouyan" style="width:570px; height:730px"/> 
+<img src="https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/My-Photo.jpg" alt="Pouyan" style="width:285px; height:365px"/> 
 </p>
 <br>
-![My-Photo](https://github.com/pouyanhessabi/pouyanhessabi.github.io/assets/48151522/d7ba3b58-21f8-4871-8662-3449a7320adc)
 
 <br>
 I'm a Computer Engineer graduated from  Amirkabir University of Technology (Tehran Polytechnic). I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges<br> **Research Interests**: 
