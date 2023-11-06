@@ -1,7 +1,7 @@
 # Greetings! I'm Pouyan Hessabi
 <br>
 <p align = "center">
- <a href="https://pouyanhessabi.github.io/" target="_blank" rel="noreferrer"> <img style ="border-radius: 15%" src=https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/My%20Photo.jpg" width="200" height="200"/> </a>
+ <img src="https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/My%20Photo.jpg" alt="Pouyan" style="border-radius: 20% ; width:570px; height:730px; object-fit: cover;"/> 
  </p>
 
 <br>
