@@ -70,21 +70,21 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
   • Designing (and grading) [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design and requirement engineering<br>
 
 ## Academic Projects
-* **Information Retrieval | Search Engine**: Implemented a search engine using using `python`. [link](https://github.com/pouyanhessabi/Search-Engine-IR-Project) <br>
-* **Advanced Programming | Music Player**: Implemented a basic music player using `java`. supporting features like editing songs in library, managing different playlists and watch friends activity. [link](https://github.com/pouyanhessabi/JPotify-java-spotify) <br>
-* **Data Mining | Diabetes Prediction**: Implemented and evaluated a simple classifier to determine if given data has diabetes based on its features, using `python` language and `xgboost` library. [link](https://github.com/pouyanhessabi/Diabetes-Prediction-DM-Project) <br>
-* **Artificial Intelligence 1st Project| Searching Algorithm**:  Implemented searching algorithms, including IDS, BBFS, and A*, from scratch to find optimal paths using `python`. Advanced libraries for searching algorithms were not used. [link](https://github.com/pouyanhessabi/Searching-Algorithms-IDS-BBFS-AStar) <br>
-* **Artificial Intelligence 2nd Project| Genetic Algorithm**: Implemented a genetic algorithm to solve the _Super Mario_ game using `python`. No advanced libraries for genetic algorithms were used [link](https://github.com/pouyanhessabi/Genetic-Algorithm) <br>
-* **Artificial Intelligence 3rd Project| NLP Comment Filtering**: Implemented bigram and n-gram models for comment filtering using. [link](https://github.com/pouyanhessabi/NLP-Comment-Filtering) <br>
-* **Mobile Programming | Book List Android App**: Implemented an android app to import and see books list using `kotlin`. [link](https://github.com/pouyanhessabi/Book-List-App) <br>
-* **Operating System | XV6 OS**: Implemented scheduling algorithms and some system calls for XV6 OS using the `C` language. [link](https://github.com/pouyanhessabi/XV6-OS) <br>
-* **Principles of Programming | Nation Is Falling**: Implemented basic decision game using the `C` language. [link](https://github.com/pouyanhessabi/BasicProgramming-final-project) <br>
-* **Software Testing | Testing MS Word with Autoit**: Conducted performance testing for MS Word with `Autoit` tool by writing scripts. [link](https://github.com/pouyanhessabi/Software-Testing-Autoit) <br>
-* **Database Design| CRUD operations for a Shop**: CRUD(create, read, update, delete) operations for a basic shop using pure `SQL` with a `mysql` database.[link](https://github.com/pouyanhessabi/Database-Project-Shop) <br>
-* **Web Programming | Recognize Gender By Name**: Create a simple web page to recongnize the gender of name entered in a specific field using `HTML`, `CSS` and `javascript`. [link](https://github.com/pouyanhessabi/call-mr-or-ms) <br>
-* **Logic Design | Sequntial and Combinational Circuit for Healthcare**: Implemented sequntial and combinational circuits using the `verilog` language, including various adders, multipliers, mux and comparators. [link](https://github.com/pouyanhessabi/LD-final-project) <br>
- * **Principle of Management & Organization  | Agile Project Management Research**: Conducted a basic theoretical research study on `agile` project management in software development. [link](https://github.com/pouyanhessabi/Agile-Project-Management-in-software-developement) <br>
-* **Research and Technical Presentation Course | Dry Eye Analysis Using ML**:  Practiced a simple research and technical presentation on dry eye analysis using machine learning approaches. [link](https://github.com/pouyanhessabi/Dry-Eye-Basic-Research) <br>
+* **Information Retrieval, Search Engine**: Implemented a search engine using using `python`. [link](https://github.com/pouyanhessabi/Search-Engine-IR-Project) <br>
+* **Advanced Programming, Music Player**: Implemented a basic music player using `java`. supporting features like editing songs in library, managing different playlists and watch friends activity. [link](https://github.com/pouyanhessabi/JPotify-java-spotify) <br>
+* **Data Mining, Diabetes Prediction**: Implemented and evaluated a simple classifier to determine if given data has diabetes based on its features, using `python` language and `xgboost` library. [link](https://github.com/pouyanhessabi/Diabetes-Prediction-DM-Project) <br>
+* **Artificial Intelligence 1st Project, Searching Algorithm**:  Implemented searching algorithms, including IDS, BBFS, and A*, from scratch to find optimal paths using `python`. Advanced libraries for searching algorithms were not used. [link](https://github.com/pouyanhessabi/Searching-Algorithms-IDS-BBFS-AStar) <br>
+* **Artificial Intelligence 2nd Project, Genetic Algorithm**: Implemented a genetic algorithm to solve the _Super Mario_ game using `python`. No advanced libraries for genetic algorithms were used [link](https://github.com/pouyanhessabi/Genetic-Algorithm) <br>
+* **Artificial Intelligence 3rd Project, NLP Comment Filtering**: Implemented bigram and n-gram models for comment filtering using. [link](https://github.com/pouyanhessabi/NLP-Comment-Filtering) <br>
+* **Mobile Programming, Book List Android App**: Implemented an android app to import and see books list using `kotlin`. [link](https://github.com/pouyanhessabi/Book-List-App) <br>
+* **Operating System, XV6 OS**: Implemented scheduling algorithms and some system calls for XV6 OS using the `C` language. [link](https://github.com/pouyanhessabi/XV6-OS) <br>
+* **Principles of Programming, Nation Is Falling**: Implemented basic decision game using the `C` language. [link](https://github.com/pouyanhessabi/BasicProgramming-final-project) <br>
+* **Software Testing, Testing MS Word with Autoit**: Conducted performance testing for MS Word with `Autoit` tool by writing scripts. [link](https://github.com/pouyanhessabi/Software-Testing-Autoit) <br>
+* **Database Design, CRUD operations for a Shop**: CRUD(create, read, update, delete) operations for a basic shop using pure `SQL` with a `mysql` database.[link](https://github.com/pouyanhessabi/Database-Project-Shop) <br>
+* **Web Programming, Recognize Gender By Name**: Create a simple web page to recongnize the gender of name entered in a specific field using `HTML`, `CSS` and `javascript`. [link](https://github.com/pouyanhessabi/call-mr-or-ms) <br>
+* **Logic Design, Sequntial and Combinational Circuit for Healthcare**: Implemented sequntial and combinational circuits using the `verilog` language, including various adders, multipliers, mux and comparators. [link](https://github.com/pouyanhessabi/LD-final-project) <br>
+ * **Principle of Management & Organization, Agile Project Management Research**: Conducted a basic theoretical research study on `agile` project management in software development. [link](https://github.com/pouyanhessabi/Agile-Project-Management-in-software-developement) <br>
+* **Research and Technical Presentation Course, Dry Eye Analysis Using ML**:  Practiced a simple research and technical presentation on dry eye analysis using machine learning approaches. [link](https://github.com/pouyanhessabi/Dry-Eye-Basic-Research) <br>
   
 ## Notable Grades
 Some important grades:
