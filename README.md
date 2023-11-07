@@ -4,7 +4,7 @@
 <img src="https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/My-Photo.jpg" alt="Pouyan" style="width:285px; height:365px"/> 
 </p>
 
-I'm a Computer Engineer graduated from  Amirkabir University of Technology (Tehran Polytechnic). I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges.<br> 
+I'm a Computer Engineer graduated from  _Amirkabir University of Technology (Tehran Polytechnic)_. I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges.<br> 
 **Research Interests**: 
 * `Software Engineering`
 * `Agile`
@@ -17,7 +17,6 @@ I'm a Computer Engineer graduated from  Amirkabir University of Technology (Tehr
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pouyan.hessabi@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/pouyanhessabi)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
-
 University mail: pohe@aut.ac.ir <br>
 My CV [[pdf](https://github.com/pouyanhessabi/later)]
 - [Education](#education)
@@ -26,9 +25,9 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 - [Academic Projects](#academic-projects)
 - [Notable Grades](#notable-grades)
 - [Technical Skills](#technical-skills)
+- [Honours and Other Activities](#honours-and-other-activities)
 - [Languages](#languages)
 - [Certificates](#certificates)
-- [Honours and Other Activities](#Honours-and-Other-Activities)
 <br>
 
 ## Education
@@ -44,7 +43,7 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 • Overall CGPA: 19.31/20 (3.91/4) <br> <br>
 
 ## Research and Work Experiences
-* **B.Sc. Thesis | Amirkabir university. | [github link](https://github.com/pouyanhessabi/B.Sc-Project-Healthcare-Microservice) | Jun 2023 – Sep 2023 (4 mos)** <br>
+* **B.Sc. Thesis | Amirkabir University. | [github link](https://github.com/pouyanhessabi/B.Sc-Project-Healthcare-Microservice) | Jun 2023 – Sep 2023 (4 mos)** <br>
 • Grade: 19.5/20 <br>
 • Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en&oi=ao) <br> 
 • Design a healhcare system using microservices architecture which has user authentication, disease predictionion by given symptoms, map disease to particular expertise, search physician by expertise.<br>
@@ -66,84 +65,53 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 * **Head Teaching Assistant | Software Engineering II | Spring 2023** <br>
   • Under the supervision of [Dr. Faezeh Gohari](https://scholar.google.com/citations?user=7bpNAlAAAAAJ&hl=en), Amirkabir University of Technology <br>
   • Designing (and grading) [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design, and testing. Also recording lecture videos for the students and teaching in the classes.
-<br>
-
 * **Teaching Assistant | Software Engineering I (Software Analysis and Design)	 | Spring 2023** <br>
   • Under the supervision of [Dr. Ehsan Alirezaei](https://scholar.google.com/citations?user=oQE-MBQAAAAJ&hl=en&oi=ao), Amirkabir University of Technology, Tehran University <br>
   • Designing (and grading) [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design and requirement engineering<br>
 
 ## Academic Projects
-### Software Engineering related projects:
-* **Information Retrieval | Search Engine**: Implemented a search engine using different models and algorithms, including `binary search` and `tf-idf`. [link](https://github.com/pouyanhessabi/Search-Engine-IR-Project)
-* **Advanced Programming | Music Player**: Implemented basic music player with `java`.Supporting features like editing songs in Library, managing different Playlists, Share or Like songs and friends activity. [link](https://github.com/pouyanhessabi/JPotify-java-spotify)
+* **Information Retrieval | Search Engine**: Implemented a search engine using using `python`. [link](https://github.com/pouyanhessabi/Search-Engine-IR-Project)
+* **Advanced Programming | Music Player**: Implemented a basic music player using `java`. supporting features like editing songs in library, managing different playlists and watch friends activity. [link](https://github.com/pouyanhessabi/JPotify-java-spotify)
+* **Data Mining | Diabetes Prediction**: Implemented and evaluated a simple classifier to determine if given data has diabetes based on its features, using `python` language and `xgboost` library. [link](https://github.com/pouyanhessabi/Diabetes-Prediction-DM-Project)
+* **Artificial Intelligence 1st Project| Searching Algorithm**:  Implemented searching algorithms, including IDS, BBFS, and A*, from scratch to find optimal paths using `python`. Advanced libraries for searching algorithms were not used. [link](https://github.com/pouyanhessabi/Searching-Algorithms-IDS-BBFS-AStar)
+* **Artificial Intelligence 2nd Project| Genetic Algorithm**: Implemented a genetic algorithm to solve the _Super Mario_ game using `python`. No advanced libraries for genetic algorithms were used [link](https://github.com/pouyanhessabi/Genetic-Algorithm)
+* **Artificial Intelligence 3rd Project| NLP Comment Filtering**: Implemented bigram and n-gram models for comment filtering using. [link](https://github.com/pouyanhessabi/NLP-Comment-Filtering)
 * **Mobile Programming | Book List Android App**: Implemented an android app to import and see books list using `kotlin`. [link](https://github.com/pouyanhessabi/Book-List-App)
-* **Principles of Programming | Nation Is Falling**: Implemented basic decision game with `C` language [link](https://github.com/pouyanhessabi/BasicProgramming-final-project)
-* **Principles of Programming | Nation Is Falling**: Implemented basic decision game with `C` language [link](https://github.com/pouyanhessabi/BasicProgramming-final-project)
-* **Principles of Programming | Nation Is Falling**: Implemented basic decision game with `C` language [link](https://github.com/pouyanhessabi/BasicProgramming-final-project)
-* 
-### Artificial Intelligence related projects:
-
-* [**Data Mining Projects**: Implemented various stuff including `Data Preprocessing`, `Linear Regression`, `Polynomial Regression`, `Keras NN Models`, `K-Means and DBScan Clustering`, `Apriori Decision Trees`, `XGBoost` and `GridSearchCV`](https://github.com/rzninvo/Data-Mining-Projects)
-* [**Robotics Final Project**: This project has three phases: `Maze Solver` and `Object Avoiding Robot` with the `VFH Algorithm`, `City Lanes Following Robot`, and `Traffic Signs Detecting and Reacting` Robot.](https://github.com/rzninvo/robotics_final_project)
-* [**Multi-Labeled Text Classification**: This project aims to classify input samples from `Ronash dataset` into 20 categories using text processing techniques, `hyperparameter tuning`, and `XGBoost` decision tree tuning. Various `LSTM` and `Conv1D` layer combinations were also tested in a hand-made model](https://github.com/rzninvo/multi_label_text_classification)
-* [**Snail Jumper - Neuro Evolution**: A neural network with a `genetic algorithm` playing the Snail Jumper game with `K- fittest`, `Roulette Wheel`, `SuS`, and `Q-Tournament` selection algorithms.](https://github.com/rzninvo/CI_NeuroEvolutionGame)
-* [**Health Evaluation Using Fuzzification Algorithms**: A three-phase system was developed to evaluate patients' **health**, which involves `fuzzification`, `rule inference`, and `defuzzification` using the centroid integral algorithm to convert fuzzy sets back to real values.](https://github.com/rzninvo/Health-Evaluation-Using-Fuzzification-Algorithms)
-* [**Multi Labeled Image Classification**: Implemented fully connected neural network from scratch, trained with CIFAR10 dataset, covering concepts of `Linear Regression`, `Forward and Backward Propagation`, and `Vectorization`. Also implemented
-`Convolutional Neural Networks` as an extra assignment.](https://github.com/rzninvo/Image-Classification-Using_Fully-Connected_Neural-Networks-)
-
-### Other projects:
-* [**Advanced Programming Final Project (Jpotify)**: Music player written in Java](https://github.com/rzninvo/Jpotify)
-* [**MIT XV6 Operating System**: As part of a project involving `XV6`, we added new
-system calls to the operating system and implemented `quantum time` for `Round-Robin Scheduling`.
-Additionally, we integrated `Multi-Level Feedback Queue` and `Priority Scheduling` to this experimental
-operating system to further enhance its functionality.](https://github.com/rzninvo/xv6-project)
-* [**SSH Chatroom (Information Security Project)**: Developed a secure chatroom based on the Secure Shell (SSH) protocol. A server is implemented that functions like a Kerberos Authentication Server (AS).](https://github.com/rzninvo/SSH-Chatroom)
-
-
+* **Operating System | XV6 OS**: Implemented scheduling algorithms and some system calls for XV6 OS using the `C` language. [link](https://github.com/pouyanhessabi/XV6-OS)
+* **Principles of Programming | Nation Is Falling**: Implemented basic decision game using the `C` language. [link](https://github.com/pouyanhessabi/BasicProgramming-final-project)
+* **Software Testing | Testing MS Word with Autoit**: Conducted performance testing for MS Word with `Autoit` tool by writing scripts. [link](https://github.com/pouyanhessabi/Software-Testing-Autoit)
+* **Database Design| CRUD operations for a Shop**: CRUD(create, read, update, delete) operations for a basic shop using pure `SQL` with a `mysql` database.[link](https://github.com/pouyanhessabi/Database-Project-Shop)
+* **Web Programming | Recognize Gender By Name**: Create a simple web page to recongnize the gender of name entered in a specific field using `HTML`, `CSS` and `javascript`. [link](https://github.com/pouyanhessabi/call-mr-or-ms)
+* **Logic Design | Sequntial and Combinational Circuit for Healthcare**: Implemented sequntial and combinational circuits using the `verilog` language, including various adders, multipliers, mux and comparators. [link](https://github.com/pouyanhessabi/LD-final-project)
+ * **Principle of Management & Organization  | Agile Project Management Research**: Conducted a basic theoretical research study on `agile` project management in software development. [link](https://github.com/pouyanhessabi/Agile-Project-Management-in-software-developement)
+* **Research and Technical Presentation Course | Dry Eye Analysis Using ML**:  Practiced a simple research and technical presentation on dry eye analysis using machine learning approaches. [link](https://github.com/pouyanhessabi/Dry-Eye-Basic-Research)
+  
 ## Notable Grades
 Some important grades:
-* **Data Mining**: 4/4 
-* **Principals of Computational Intelligence**: 4/4 
-* **Algorithm Design**: 4/4
-* **Principals of Artificial Intelligence**: 3/4
-* **Startup Development**: 4/4
-* **Information Security**: 4/4
-* **Cloud Computing**: 3/4
-* **Internet of Things**: 3/4
-* **Microprocessor and Assembly Language**: 4/4 
-* **Software Engineering II**: 4/4
-* **Web Programming**: 4/4
-* **Android Programming**: 4/4
-* **Operating Systems**: 4/4
-* **Computer Architecture**: 4/4
-* **Theory of Machines and Languages**: 4/4
-* **Robotics**: 4/4
-* **Signals and Systems**: 4/4
+* **BSc Thesis**: A+
+* **Internship**: A+
+* **Software Engineering 2**: A+
+* **Software Engineering 1**: A
+* **Principles of Artificial Intelligence**: A
+* **Algorithm Design**: A
+* **Mobile Programming**: A
+* **Startup Developement**: A
 <br> <br>
 
 ## Technical Skills
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40"     height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"        
-  height="40"/> </a>
-   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/software/confluence/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" alt="jira" width="40" height="40"/> </a>
-</p>
+* **Programming Languages and Web Developement**: Python, Java, C, Kotlin, HTML, CSS, JavaScript, XML
+* **Hardware Design Languages**: Arduino, Verilog, VHDL
+* **Database Systems**: MySQL, Oracle
+* **Operating Systems**: Windows, Linux(Ubuntu)
+* **Miscellaneous**: Flask, Spring, Git, Docker, Jira, Latex, REST API, Agile(Scrum/Kanban/XP)
 <br> <br>
+
+## Honours and Other Activities
+•	Writer at _Pouyesh Student Magazine_, the official publication of Students’ Community(Guild Council) of computer engineering department at _Amirkabir University of Technology_, 2023. <br>
+•	Management of Association of Philosophy and Religion at Amir Kabir University of Technology, 2020–2022. <br>
+•	As the manager of _Association of Philosophy and Religion_ at _Amirkabir University of Technology_, I was winner of the award for the best cultural association in the field of _Culture and Thought_ among all universities in the country, 2021-2022. <br>
+• Achieved top 2% among all applicants of the Nationwide University Entrance Exam(known as _Konkour_) in Mathematics and Engineering (Approximately 150,000 applicants), 2018.<br>
+•	Student activist at _Mofid 2 High school_, involved in writing in magazines, declamation and theatre performance, 2014-2018.	<br>
 
 ## Languages
 •	**Persian**: Native <br>
@@ -194,4 +162,3 @@ Some important grades:
 -->
 <br>
 
-## Honours and Other Activities
