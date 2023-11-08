@@ -17,6 +17,7 @@ I'm a Computer Engineer graduated from  _Amirkabir University of Technology (Teh
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pouyan.hessabi@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/pouyanhessabi)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
+<br>
 University mail: pohe@aut.ac.ir <br>
 My CV [[pdf](https://github.com/pouyanhessabi/later)]
 - [Education](#education)
@@ -27,7 +28,6 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 - [Technical Skills](#technical-skills)
 - [Honours and Other Activities](#honours-and-other-activities)
 - [Languages](#languages)
-- [Certificates](#certificates)
 <br>
 
 ## Education
@@ -117,9 +117,9 @@ Some important grades:
 •	**Persian**: Native <br>
 •	**English**: Professional (TOEFL IBT anticipated completion date: 12/30/2023) <br>
 
-
-## Certificates
 <!--
+## Certificates
+
 ### Technical certificates
 #### Deep Learning Specialization Coursera (and deeplearning.ai): <br> <br> <img src="https://raw.githubusercontent.com/rzninvo/rzninvo.github.io/main/Certificates/Coursera%20UPVSE4DDZS6F.png" />
 ---
