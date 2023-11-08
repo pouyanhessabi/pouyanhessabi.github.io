@@ -70,7 +70,7 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
   • Designing (and grading) [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design and requirement engineering<br>
 
 ## Academic Projects
-* **Information Retrieval, Search Engine**: Implemented a search engine using using `python`. [link](https://github.com/pouyanhessabi/Search-Engine-IR-Project) <br>
+* **Information Retrieval, Search Engine**: Implemented a search engine by tf-idf using `python`. [link](https://github.com/pouyanhessabi/Search-Engine-IR-Project) <br>
 * **Advanced Programming, Music Player**: Implemented a basic music player using `java`. supporting features like editing songs in library, managing different playlists and watch friends activity. [link](https://github.com/pouyanhessabi/JPotify-java-spotify) <br>
 * **Data Mining, Diabetes Prediction**: Implemented and evaluated a simple classifier to determine if given data has diabetes based on its features, using `python` language and `xgboost` library. [link](https://github.com/pouyanhessabi/Diabetes-Prediction-DM-Project) <br>
 * **Artificial Intelligence 1st Project, Searching Algorithm**:  Implemented searching algorithms, including IDS, BBFS, and A*, from scratch to find optimal paths using `python`. Advanced libraries for searching algorithms were not used. [link](https://github.com/pouyanhessabi/Searching-Algorithms-IDS-BBFS-AStar) <br>
