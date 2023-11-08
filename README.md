@@ -57,8 +57,8 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 • Utilized `agile` frameworks such as `scrum`, `kanban` and `XP`<br>
 
  * **Java Developer | [Dotin](https://www.dotin.ir/) | Aug 2021 – Mar 2022 (8 mos)** <br>
- • Java developer (backend) in Banking company.<br>
- • Worked on a application involving web development skills including `java SE`, `java EE`, `hibernate`, `XML`, `HTML`/`CSS`/`JS`, `oracle`, `clean code`,`design patterns`.<br>
+ • Java developer in a Banking company.<br>
+ • Worked on a application involving web development skills such as `java SE`, `java EE`, `hibernate`, `XML`, `HTML`/`CSS`/`JS`, `oracle`, `clean code`,`design patterns`.<br>
  • Business skills encompassed card management, payment processing, card transactions, and facility installments.<br>
 
 ## Teaching Experiences
