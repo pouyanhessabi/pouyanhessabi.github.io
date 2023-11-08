@@ -1,0 +1,343 @@
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+%	The MIT License (MIT)
+%
+%	Copyright (c) 2021 Jitin Nair
+%
+%	Permission is hereby granted, free of charge, to any person obtaining a copy
+%	of this software and associated documentation files (the "Software"), to deal
+%	in the Software without restriction, including without limitation the rights
+%	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%	copies of the Software, and to permit persons to whom the Software is
+%	furnished to do so, subject to the following conditions:
+%	
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+%	THE SOFTWARE.
+%	
+%
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT DEFINITION
+%----------------------------------------------------------------------------------------
+
+% article class because we want to fully customize the page and not use a cv template
+\documentclass[a4paper,12pt]{article}
+
+%----------------------------------------------------------------------------------------
+%	FONT
+%----------------------------------------------------------------------------------------
+
+% % fontspec allows you to use TTF/OTF fonts directly
+% \usepackage{fontspec}
+% \defaultfontfeatures{Ligatures=TeX}
+
+% % modified for ShareLaTeX use
+% \setmainfont[
+% SmallCapsFont = Fontin-SmallCaps.otf,
+% BoldFont = Fontin-Bold.otf,
+% ItalicFont = Fontin-Italic.otf
+% ]
+% {Fontin.otf}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES
+%----------------------------------------------------------------------------------------
+\usepackage{url}
+\usepackage{parskip} 	
+
+%other packages for formatting
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[scale=0.9]{geometry}
+
+%tabularx environment
+\usepackage{tabularx}
+
+%for lists within experience section
+\usepackage{enumitem}
+
+% centered version of 'X' col. type
+\newcolumntype{C}{>{\centering\arraybackslash}X} 
+
+%to prevent spillover of tabular into next pages
+\usepackage{supertabular}
+\usepackage{ltxtable}
+\usepackage{tabularx}
+\newlength{\fullcollw}
+\setlength{\fullcollw}{0.47\textwidth}
+
+%custom \section
+\usepackage{titlesec}				
+\usepackage{multicol}
+\usepackage{multirow}
+
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\definecolor{mamad}{rgb}{0.4,0.07,0.07}
+\titleformat{\section}{\Large\scshape\raggedright\color{mamad}}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{10pt}
+
+%for publications
+\usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
+
+%Setup hyperref package, and colours for links
+\usepackage[unicode, draft=false]{hyperref}
+
+\definecolor{linkcolour}{rgb}{0.4,0.07,0.07}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+\addbibresource{citations.bib}
+\setlength\bibitemsep{1em}
+
+%for social icons
+\usepackage{fontawesome5}
+
+
+%debug page outer frames
+%\usepackage{showframe}
+
+\renewcommand{\footnoterule}{
+  \kern -3pt
+  {\color{mamad} \hrule width 2in height 0.5pt}
+  \kern 2.6pt
+}
+
+\renewcommand{\footnotesize}{\small}
+%----------------------------------------------------------------------------------------
+%	BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+\begin{tabularx}{\linewidth}{@{} C @{}}
+\Huge{Pouyan Hessabi} \\[7.5pt]
+\begin{gather}
+ Date of Birth: 4 December 1999
+ 
+\begin{align}
+     \href{https://pouyanhessabi.github.io/}{\raisebox{-0.05\height}\faGlobe\ pouyanhessabi.github.io}\ $|$  \href{mailto:pouyan.hessabi@gmail.com}{\raisebox{-0.05\height}\faEnvelope \ pouyan.hessabi@gmail.com} \ $|$ \  \href{mailto:pohe@aut.ac.ir}{\raisebox{-0.05\height}\faEnvelope \ pohe@aut.ac.ir} \
+\end{align}
+\end{gather}
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH INTEREST
+%----------------------------------------------------------------------------------------
+
+\section{Research Interests}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+    \multicolumn{2}{@{}X@{}}{
+    \text{Software Engineering, Agile Development, Software Architecture, Requirement Engineering, Applied Machine Learning, Human Factors in Software Engineering}
+    } \\
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran} & \hfill 2018 -  2023 \\[2pt]
+\multicolumn{2}{@{}X@{}}{
+    \begin{itemize}
+    \item Bachelor of Science in Computer Engineering, GPA\footnote{My Iran GPA was converted to Standard US GPA with \href{https://gpa.eng.uci.edu/node/241}{this} calculator.}: 3.26/4.0
+    % \item Last Two Years Major GPA: 17.13/20 (3.62/4.0)
+    \item\textbf{Notable course:}
+    
+    \begin{tabularx}{\linewidth}{@{}X X@{}}
+{\renewcommand{\arraystretch}{0.1}}
+  \begin{itemize}[leftmargin=*]
+    \item BSc. Thesis: A+
+    \item Internship: A+
+    \item Software Engineering 2: A+
+    \item Software Engineering 1: A
+  \end{itemize}
+  &
+  \begin{itemize}[leftmargin=*]
+    \item Artificial Intelligence: A
+    \item Algorithm Design: A
+    \item Startup Development: A
+    \item Mobile Programming: A
+  \end{itemize} \\
+\end{tabularx}
+    % \begin{itemize}
+        % BSc. Thesis: A+, Internship: A+, Software Engineering 2: A+, Software Engineering 1: A, Principles of Artificial Intelligence: A, Algorithm Design: A, Startup Development: A, Mobile Programming: A
+    % \end{itemize} 
+    \end{itemize}
+    } \\
+\textbf{Mofid 2 High School, Tehran, Iran} & \hfill 2014 - 2018 \\[2pt]
+% \multicolumn{2}{@{}X@{}}{
+    % \begin{itemize}
+    \quad \quad Diploma of Education in Mathematics and Physics, GPA: 3.91/4
+    % \end{itemize}
+    % } \\
+\end{tabularx}
+
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE SECTIONS
+%----------------------------------------------------------------------------------------
+
+%Experience
+\section{Work and Research Experiences}
+
+\begin{ltxtable}{\textwidth}{}
+\textbf{BSc. Thesis, {\href {https://aut.ac.ir/en}{Amirkabir University of Technology}}, Tehran, Iran} & \hfill Jun 2023 - Sep 2023 \\[3.75 pt]
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+\begin{itemize}
+\item Title: Designing disease diagnosis and physician referral system using microservices architecture.
+\item Under the supervision of \parbox[t]{0.7\linewidth}{\href{https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en&oi=ao}{Prof. Amir Kalbasi}}
+\item Designed a healthcare system using microservices architecture that includes disease prediction by given symptoms, mapping diseases to particular expertise, and searching physicians.
+\item Involved software design and engineering principles, microservices architecture and machine learning.
+\item Implementation technologies: Python, Flask, XGBoost, MySQL, Docker, Git.
+
+ \hfill \href{https://github.com/pouyanhessabi/B.Sc-Project-Healthcare-Microservice}{\raisebox{-0.05\height}\faGithub\ Project Link}
+\end{itemize}
+} \\
+\textbf{APM and Scrum Master, {\href {https://faraadid.com}{Faraadid Company}}, Tehran, Iran \parbox[t]{0.7\linewidth}} & \hfill Apr 2023 - Nov 2023 \\[3.75 pt]
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+    \begin{itemize}
+    \item Associate product manager of an AI-based platform using computer vision to provide HSE services.
+    \item Assisting CEO, PM, CTO, and HR in product discovery, business analytics, business strategy, process engineering, quality assurance, and performance measurement.
+    \item Established the Scrum framework, led the Scrum team, and facilitated Scrum events in three teams, including AI, MLOps, and Software.
+    \end{itemize}
+    } \\
+\textbf{Java Developer, {\href {https://www.linkedin.com/company/dotin/}{Dotin Company}}, Tehran, Iran} & \hfill Aug 2021 - Mar 2022 \\[3.75 pt]
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+    \begin{itemize}
+    \item Java developer in a banking company.
+    \item Worked on an application involving web development skills such as Java SE, Java EE, Hibernate, XML, HTML/CSS/JS, Oracle, clean code principles, and design patterns.
+    \item  Business skills encompassed card management, payment processing, card transactions, and facility installments.
+    \end{itemize}
+    } 
+\end{ltxtable}
+
+%----------------------------------------------------------------------------------------
+% Teaching Experience Section
+%----------------------------------------------------------------------------------------
+\section{Teaching Experiences}
+\begin{ltxtable}{\textwidth}{}
+\textbf{Head Teaching Assistant, Software Engineering II} & \hfill Spring 2023\\[3.75pt]
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+    \begin{itemize}
+    \item Under the supervision of {\href{https://scholar.google.com/citations? user=7bpNAlAAAAAJ&hl=en}{Dr Faezeh Gohari}} at Amirkabir University of Technology.
+    \item Designing (and grading) assignments and projects related to software process, software analysis and design, and testing. Also preparing lecture videos for the students and teaching in the classes.
+    \end{itemize}
+    } \\
+\textbf{Teaching Assistant, Software Engineering (Software Analysis and Design)} & \hfill Spring 2023 \\[3.75pt]
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+    \begin{itemize}
+    \item Under the supervision of {\href{https://scholar.google.com/citations?user=oQE-MBQAAAAJ&hl=en&oi=ao}{Dr. Ehsan Alirezaei}} at Amirkabir University of Technology and Tehran University.
+    \item Designing (and grading) assignments and projects related to software process, software analysis and design and requirement engineering.
+    \end{itemize}
+    } \\
+\end{ltxtable}
+
+%-----------------------------------------------------------------------------------------------------------------------------------------------------------------% Projects
+%----------------------------------------------------------------------------------------------------------------------------------------------------------------%
+
+\section{Top Academic Course Projects}
+
+\begin{ltxtable}{\textwidth}{}
+\textbf{Information Retrieval,} Search Engine & \hfill Spring 2022 \\
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+\begin{itemize}
+\item Implemented a search engine by tf-idf approach using Python language.
+\hfill \href{https://github.com/pouyanhessabi/Search-Engine-IR-Project}{\raisebox{-0.05\height}\faGithub\ Project Link}
+\end{itemize}
+} \\
+\textbf{Advanced Programming,} Music Player & \hfill Spring 2019 \\
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+    \begin{itemize}
+    \item Implemented a basic music player using Java. Supporting features like editing songs in library, managing different playlists and watch friends activities.
+    \hfill \href{https://github.com/pouyanhessabi/JPotify-java-spotify}{\raisebox{-0.05\height}\faGithub\ Project Link}
+    \end{itemize}
+    } \\
+\textbf{Data Mining,} Diabetes Prediction & \hfill Spring 2022 \\
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+    \begin{itemize}
+    \item Implemented and evaluated a simple classifier to determine if given data represent patient's diabetes based on its features, using Python language and XGBoost library.
+    \hfill \href{https://github.com/pouyanhessabi/Diabetes-Prediction-DM-Project}{\raisebox{-0.05\height}\faGithub\ Project Link}
+    \end{itemize}
+    } \\
+\textbf{Principles of Artificial Intelligence,} Three Projects & \hfill Spring 2021 \\
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+    \begin{itemize}
+    \item \textbf{Searching Algorithm:} Implemented searching algorithms, including IDS, BBFS, and A*, from scratch to find optimal paths using Python.
+    \item \textbf{Genetic Algorithm:} Implemented a genetic algorithm to solve the Super Mario game using Python. No advanced libraries for genetic algorithms were used.
+    \item \textbf{NLP Comment Filtering:} Implemented bigram and n-gram models for comment filtering using Python language with Numpy and Pandas libraries.
+    \hfill \href{https://github.com/pouyanhessabi/NLP-Comment-Filtering}{\raisebox{-0.05\height}\faGithub\ Project Link}
+    \end{itemize}
+    } \\
+\textbf{Operating System,} MIT XV6 Operating System & \hfill Fall 2020 \\
+\multicolumn{2}{@{}p{\textwidth}@{}}{
+    \begin{itemize}
+    \item Implemented scheduling and some system calls for XV6 OS using the C language.
+    % \parbox[t]{0.7\linewidth}} & \hfill \href{https://github.com/pouyanhessabi/XV6-OS}{\raisebox{-0.05\height}\faGithub\ Project Link} \\[3.75 pt]
+    \hfill \href{https://github.com/pouyanhessabi/XV6-OS}{\raisebox{-0.02\height}\faGithub\ Project Link}
+    \end{itemize}
+    } \\ 
+\end{ltxtable}
+
+%----------------------------------------------------------------------------------------
+%	Technical Skills
+%----------------------------------------------------------------------------------------
+\section{Technical Skills}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+   
+    
+    \textbf{Programming Languages and Web Developement:} Python, Java, C, Kotlin, HTML, CSS, \\ JavaScript, XML \\
+   \textbf{Hardware Design Languages:} Arduino, Verilog, VHDL  \\
+    \textbf{Database Systems:} MySQL, Oracle \\
+    \textbf{Operating Systems:} Windows, Linux(Ubuntu) \\
+    \textbf{Miscellaneous} Flask, Spring, Git, Docker, Jira, \LaTeX, REST API, Agile (Scrum/Kanban/XP)
+\end{tabularx}
+%----------------------------------------------------------------------------------------
+%	Award and Honors
+%----------------------------------------------------------------------------------------
+\section{Awards and Honors}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{Nationwide University Entrance Exam} & \hfill 2018 \\[2.5pt]
+\multicolumn{2}{@{}X@{}}{
+    \begin{itemize}
+    \item \text{Achieved top 2\% among all applicants of the Nationwide University Entrance Exam (known as Konkour) for BSc. in Mathematics and Engineering (Approximately 150000 applicants)}
+    \end{itemize}
+    } \\
+\textbf{Management of Association of Philosophy and Religion} & \hfill 2022 \\[2.5pt]
+\multicolumn{2}{@{}X@{}}{
+    \begin{itemize}
+    \item As the manager of Association of Philosophy and Religion at Amirkabir University of Technology, I was the winner of the award for the best cultural association in the field of Culture and Thought among all universities in the country.
+    \end{itemize}
+    } \\
+\end{tabularx}
+
+
+%----------------------------------------------------------------------------------------
+%	Languages
+%----------------------------------------------------------------------------------------
+\section{Languages}
+\begin{tabularx}{\linewidth}{@{}l X@{}}
+Perisan &  \normalsize{Native}\\
+English  &  \normalsize{Fluent (TOEFL IBT anticipated completion date: 12/30/2023)}\\  
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	References
+%----------------------------------------------------------------------------------------
+\section{References}
+\textbf{\href{https://scholar.google.com/citations?user=7bpNAlAAAAAJ&hl=en}{Faezeh Gohari:}} Lecturer at Amirkabir University of Technology, Tehran, Iran.
+\newline Email: faezeh.gohari@gmail.com \newline
+\textbf{\href{https://scholar.google.com/citations?user=a_mSCasAAAAJ&hl=en&oi=ao}{Ali Atghaei:}} Technical Manager of AI Department at Faraadid , Tehran, Iran.
+\newline Email: ali.atghaei@gmail.com \newline
+\textbf{\href{https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en&oi=ao}{Amir Kalbasi:}} Assistant Professor at Amirkabir University of Technology, Tehran, Iran.
+\newline Email: kalbasi@aut.ac.ir \newline
+
+
+
+
+
+\end{document}
