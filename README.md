@@ -46,20 +46,20 @@ My CV [[pdf](https://github.com/pouyanhessabi/later)]
 * **B.Sc. Thesis | Amirkabir University. | [github link](https://github.com/pouyanhessabi/B.Sc-Project-Healthcare-Microservice) | Jun 2023 – Sep 2023 (4 mos)** <br>
 • Grade: 19.5/20 <br>
 • Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en&oi=ao) <br> 
-• Design a healhcare system using microservices architecture which has user authentication, disease predictionion by given symptoms, map disease to particular expertise, search physician by expertise.<br>
-• Involving software designing and engineering principles, microservices architecture, machine learning. requirement engineering.<br>
+• Designed a healthcare system using a microservices architecture that includes user authentication, disease prediction based on given symptoms, mapping diseases to particular expertise, and searching for physicians by expertise.<br>
+• Involved software design and engineering principles, microservices architecture, machine learning and requirement engineering.<br>
 • Implementation technologies: `python`, `flask`, `xgboost`, `mysql`, `docker`, `git`.<br>
 
 * **APM and Scrum Master | [Faraadid](https://faraadid.com/) | Apr 2023 – Nov 2023 (8 mos)** <br>
- • Associate product manager of a AI-based platform using computer vision to provide HSE services.<br>
- • Helping CEO/PM/CTO/HR in product discovery, bussiness analytics, bussiness strategy, process engineering, quality assurance, performance measurement.<br>
-• Establishing `scrum` framework, leading the scrum team, facilitating scrum events in three teams(including AI, MLOps, Software)<br>
-• Using `agile` frameworks such as `kanban` and `XP`<br>
+ • Associate product manager of an AI-based platform using computer vision to provide HSE services.<br>
+ • Assisting CEO, PM, CTO, and HR in product discovery, business analytics, business strategy, process engineering, quality assurance, and performance measurement.<br>
+• Established the Scrum framework, led the Scrum team, and facilitated Scrum events in three teams, including AI, MLOps, and Software.<br>
+• Utilized `agile` frameworks such as `scrum`, `kanban` and `XP`<br>
 
  * **Java Developer | [Dotin](https://www.dotin.ir/) | Aug 2021 – Mar 2022 (8 mos)** <br>
  • Java developer (backend) in Banking company.<br>
- • Web development involving: `java SE`, `java EE`, `hibernate`, `XML`, `HTML`/`CSS`/`JS`, `oracle`, `clean code`,`design patterns`.<br>
- • Business skills: card management, payment process, card transactions, facility installments.<br>
+ • Worked on a application involving web development skills including `java SE`, `java EE`, `hibernate`, `XML`, `HTML`/`CSS`/`JS`, `oracle`, `clean code`,`design patterns`.<br>
+ • Business skills encompassed card management, payment processing, card transactions, and facility installments.<br>
 
 ## Teaching Experiences
 * **Head Teaching Assistant | Software Engineering II | Spring 2023** <br>
@@ -95,7 +95,7 @@ Some important grades:
 * **Principles of Artificial Intelligence**: A
 * **Algorithm Design**: A
 * **Mobile Programming**: A
-* **Startup Developement**: A
+* **Startup Development**: A
 <br> <br>
 
 ## Technical Skills
