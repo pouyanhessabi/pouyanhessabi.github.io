@@ -4,8 +4,7 @@
 <img src="https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/My-Photo.jpg" alt="Pouyan" style="width:285px; height:365px"/> 
 </p> -->
 
-![Pouyan Photo](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/docs/assets/My-Photo.jpg)
-https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/7a97e1cce1051cdb7b48570986056013c1252c50/docs/assets/My-Photo.jpg
+![Pouyan Photo](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/docs/assets/My-Photo.jpg) <br>
 I'm a Computer Engineer graduated from  _Amirkabir University of Technology (Tehran Polytechnic)_. I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges.<br> 
 I was born in Iran in 4 December 1999.<br> 
 **Research Interests**: 
@@ -20,8 +19,9 @@ I was born in Iran in 4 December 1999.<br>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/pouyanhessabi)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
 <br>
-University mail: pohe@aut.ac.ir <br>
-My CV [[pdf](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/CV_P.Hessabi.pdf)]
+<br>
+**My CV** [[PDF](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/CV_P.Hessabi.pdf)] <br>
+**My bachelor's transcripts** [[PDF]](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/Unofficial%20Transcript.pdf) <br><br>
 - [Education](#education)
 - [Research and Work Experiences](#research-and-work-experiences)
 - [Teaching Experiences](#teaching-experiences)
@@ -36,7 +36,7 @@ My CV [[pdf](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/
 * **B.Sc. of Computer Engineering | [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/), Tehran, Iran | 2018 - 2023** <br>
 •	Overall CGPA: 15.31/20 (3.06/4) <br>
 • Last Two Years GPA: 3.22/4 <br>
-• My transcripts can be viewed from [here](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/Unofficial%20Transcript.pdf)   
+• **My transcripts** can be viewed from [here](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/Unofficial%20Transcript.pdf) 
 • **B.Sc. Thesis**: Designing and prototyping disease diagnosis and physician referral system using microservice architecture <br>
 • Grade: 19.5/20 <br>
 • Under the supervision of [Prof. Amir Kalbasi](https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en&oi=ao) <br> 
