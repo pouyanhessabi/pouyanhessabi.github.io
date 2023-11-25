@@ -50,21 +50,23 @@ I was born in Iran in 4 December 1999.<br>
 * **APM and Scrum Master | [Faraadid](https://faraadid.com/) | Apr 2023 – Nov 2023 (8 mos)** <br>
  • Associate product manager of an AI-based platform using computer vision to provide HSE services.<br>
  • Assisting CEO, PM, CTO, and HR in product discovery, business analytics, business strategy, process engineering, quality assurance, and performance measurement.<br>
-• Established the Scrum framework, led the Scrum team, and facilitated Scrum events in three teams, including AI, MLOps, and Software.<br>
+• Deployed the Scrum framework as Scrum master and facilitated Scrum events in three teams.<br>
 • Utilized `agile` frameworks such as `scrum`, `kanban` and `XP`<br>
 
- * **Java Developer | [Dotin](https://www.dotin.ir/) | Aug 2021 – Mar 2022 (8 mos)** <br>
- • Java developer in a Banking company.<br>
+ * **Backend Developer | [Dotin](https://www.dotin.ir/) | Aug 2021 – Mar 2022 (8 mos)** <br>
+ • Backend developer in a company that provide services to banks.<br>
  • Worked on a application involving web development skills such as `java SE`, `java EE`, `hibernate`, `XML`, `HTML`/`CSS`/`JS`, `oracle`, `clean code`,`design patterns`.<br>
  • Business skills encompassed card management, payment processing, card transactions, and facility installments.<br>
 
 ## Teaching Experiences
 * **Head Teaching Assistant | Software Engineering II | Spring 2023** <br>
   • Under the supervision of [Dr. Faezeh Gohari](https://scholar.google.com/citations?user=7bpNAlAAAAAJ&hl=en), Amirkabir University of Technology <br>
-  • Designing (and grading) [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design, and testing. Also recording lecture videos for the students and teaching in the classes.
+  • Designed and evaluated [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design, and testing. Also prepared lecture videos for the students and taught in the classes.<br>
 * **Teaching Assistant | Software Engineering I (Software Analysis and Design)	 | Spring 2023** <br>
   • Under the supervision of [Dr. Ehsan Alirezaei](https://scholar.google.com/citations?user=oQE-MBQAAAAJ&hl=en&oi=ao), Amirkabir University of Technology, Tehran University <br>
-  • Designing (and grading) [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and design and requirement engineering<br>
+  • Designed and evaluated [assignments](https://github.com/pouyanhessabi/Software-Engineering-TA) and projects related to software process, software analysis and
+design and requirement engineering.<br>
+
 
 ## Academic Projects
 * **Information Retrieval, Search Engine**: Implemented a search engine by tf-idf using `python`. [link](https://github.com/pouyanhessabi/Search-Engine-IR-Project) <br>
@@ -87,8 +89,8 @@ I was born in Iran in 4 December 1999.<br>
 Some important grades:
 * **BSc Thesis**: A+
 * **Internship**: A+
-* **Software Engineering 2**: A+
-* **Software Engineering 1**: A
+* **Advanced Software Engineering**: A+
+* **Software Engineering**: A
 * **Principles of Artificial Intelligence**: A
 * **Algorithm Design**: A
 * **Mobile Programming**: A
@@ -105,8 +107,8 @@ Some important grades:
 
 ## Honours and Other Activities
 •	Writer at _Pouyesh Student Magazine_, the official publication of Students’ Community(Guild Council) of computer engineering department at _Amirkabir University of Technology_, 2023. <br>
-•	Management of Association of Philosophy and Religion at Amir Kabir University of Technology, 2020–2022. <br>
-•	As the manager of _Association of Philosophy and Religion_ at _Amirkabir University of Technology_, I was winner of the award for the best cultural association in the field of _Culture and Thought_ among all universities in the country, 2021-2022. <br>
+•	Management of Association of Philosophy at Amir Kabir University of Technology, 2020–2022. <br>
+•	As the manager of _Association of Philosophy_ at _Amirkabir University of Technology_, I was winner of the award for the best cultural association in the field of _Culture and Thought_ among all universities in the country, 2021-2022. <br>
 • Achieved top 2% among all applicants of the Nationwide University Entrance Exam(known as _Konkour_) in Mathematics and Engineering (Approximately 150,000 applicants), 2018.<br>
 •	Student activist at _Mofid 2 High school_, involved in writing in magazines, declamation and theatre performance, 2014-2018.	<br>
 
