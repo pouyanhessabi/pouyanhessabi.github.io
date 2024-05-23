@@ -2,13 +2,6 @@
 ![Pouyan Photo](https://raw.githubusercontent.com/pouyanhessabi/pouyanhessabi.github.io/main/docs/assets/My-Photo.jpg) .
 <br> I'm a Computer Engineer graduated from  _Amirkabir University of Technology (Tehran Polytechnic)_. I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges.<br> 
 I was born in Iran in 4 December 1999.<br> 
-**Research Interests**: 
-* *Empirical Software Engineering*
-* *Agile Development*
-* *Software Architecture*
-* *Applied Machine Learning*
-* *Human Aspects of Software Engineering*
-<br>
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pouyan.hessabi@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/pouyanhessabi)
