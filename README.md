@@ -107,7 +107,7 @@ Some important grades:
 
 ## Languages
 •	**Persian**: Native <br>
-•	**English**: Professional (TOEFL IBT anticipated completion date: 12/30/2023) <br>
+•	**English**: Fluent: IELTS Academic: 6.5 (Writing: 7, Speaking: 6.5, Listening: 6.5, Reading: 6) <br>
 
 <!--
 ## Certificates
