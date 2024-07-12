@@ -1,6 +1,6 @@
 # I'm Pouyan Hessabi
 ![Pouyan Photo](https://raw.githubusercontent.com/pouyanhessabi/pouyanhessabi.github.io/main/docs/assets/My-Photo.jpg) .
-<br> I'm a Computer Engineer graduated from  _Amirkabir University of Technology (Tehran Polytechnic)_. I have a deep passion for learning new things. My problem-solving skills are a testament to my ability to adapt and find innovative solutions when faced with challenges.<br> 
+<br> I am a computer engineer with a BSc degree from Amirkabir University with hands-on experience in software engineering, machine learning, and web development. Known for my problem-solving skills, critical thinking, leadership, and hard work, I am passionate about technology and committed to delivering high-quality solutions.<br> 
 I was born in Iran in 4 December 1999.<br> 
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pouyan.hessabi@gmail.com)
@@ -8,7 +8,7 @@ I was born in Iran in 4 December 1999.<br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
 <br>
 <br>
-**My CV** [[PDF](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/CV_P.Hessabi.pdf)] <br>
+**My CV** [[PDF](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/Job%20CV_P.Hessabi.pdf)] <br>
 **My bachelor's transcripts** [[PDF]](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/Unofficial%20Transcript.pdf) <br><br>
 - [Education](#education)
 - [Research and Work Experiences](#research-and-work-experiences)
