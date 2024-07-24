@@ -107,7 +107,7 @@ Some important grades:
 
 ## Languages
 •	**Persian**: Native <br>
-•	**English**: Fluent: IELTS Academic: 6.5 (Writing: 7, Speaking: 6.5, Listening: 6.5, Reading: 6) <br>
+•	**English**: Fluent: IELTS Academic: 6.5 (Writing: 7, Speaking: 6.5, Listening: 6.5, Reading: 6) [Report](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/IELTS%20SCORE.pdf) <br>
 
 <!--
 ## Certificates
